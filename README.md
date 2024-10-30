@@ -25,10 +25,12 @@ Setup and Run
  
  Run the server:
 	•	Open a terminal and start the server with:
+ # node server.js	
  
  Run the client:
 	•	Open another terminal (or multiple terminals for multiple clients).
 	•	Start the client with:
+# node client.js
 
  How It Works
 
